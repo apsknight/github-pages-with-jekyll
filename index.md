@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I'm Aman Pratap Singh, a Computer Science & Engineering Najor at Indian Institute of Technology Bhubaneswar.
